@@ -21,7 +21,7 @@
 
 ## Технологии
 - **React 19** 
-- **Next.js **  
+- **Next.js**  
 - **JavaScript (ES6+)**
 - **TailwindCSS**  
 - Работа с **localStorage** для сохранения состояния   
